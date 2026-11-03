@@ -1,4 +1,4 @@
-# Pyton ASAP
+# Python ASAP
 
 Este es un conjunto de lecciones de Python tomados de [W3Schools Python](https://www.w3schools.com/python/python_getstarted.asp).
 
