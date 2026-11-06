@@ -21,6 +21,8 @@ Tabla de contenidos.
     - [1.4.1. Syntax](#141-syntax)
     - [1.4.2. Statements](#142-statements)
     - [1.4.3. Code Challenge](#143-code-challenge)
+- [MAC](#mac)
+  - [Leccion #1 - 101 Python](#leccion-1---101-python)
 
 
 ## 1. PYTHON TUTORIAL
