@@ -23,5 +23,18 @@ Estoy usando Visual Studio Code con las siguientes extensiones:
 
 
 ## MAC
-Se está utilizando el IDE de `PyCharm`, pero existen IDE's en linea como [online-python.com](https://www.online-python.com/)
-para facilitar el aprendizaje.
+Se está utilizando el IDE de `PyCharm`, pero existen IDE's en linea como [online-python.com](https://www.online-python.com/) para facilitar el aprendizaje.
+
+Encontré que `PyCharm` necesita ejecutar un ENV y no es tan amigable para un principiante como usar Visual Studio Code.
+
+### Leccion #1 - 101 Python
+
+- Para validar la version instalada de Python, abrir la terminal y escribir.
+  - Win
+    ```python
+    python --version
+    ```
+  - MAC
+    ```python
+    python3 --version
+    ```
